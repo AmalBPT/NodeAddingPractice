@@ -54,7 +54,7 @@ namespace NodeAddingPractice
         {
             //input: a node representing a linked list of numbers and a number
             // output: adding the number at the end of the linked list
-            throw NotImplementedException();
+            throw new NotImplementedException();
         }
 
 
